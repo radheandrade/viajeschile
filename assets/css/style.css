@@ -7,3 +7,22 @@ body {
     text-align: center;
     
 }
+.foto_2 {
+    height: 250px;
+}
+.navbar {
+    position: fixed;
+    top: 0;
+    z-index: 100;
+}
+.iconos {
+    width: 10px;
+    font-size: 400%;
+    color: white;
+}
+.iconos_qs i {
+    font-size: 180%;
+}
+.quienessomos {
+   font-size: large;
+}

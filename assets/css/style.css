@@ -8,7 +8,7 @@ body {
     
 }
 .foto_2 {
-    height: 250px;
+    height: 245px;
 }
 .navbar {
     position: fixed;
@@ -16,8 +16,8 @@ body {
     z-index: 100;
 }
 .iconos {
-    width: 10px;
-    font-size: 400%;
+    
+    font-size: 300%;
     color: white;
 }
 .iconos_qs i {
@@ -25,4 +25,8 @@ body {
 }
 .quienessomos {
    font-size: large;
+}
+.todoslosiconos {
+    position: absolute;
+    right: 350px;
 }

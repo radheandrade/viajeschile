@@ -1,11 +1,13 @@
 * {
-
+    font-family: 'Open Sans', sans-serif;
 }
 body {
     background-color: black;
     color: white;
     text-align: center;
-    
+}
+* h1 h5 {
+ font-weight: 600;
 }
 .foto_2 {
     height: 245px;
@@ -30,3 +32,10 @@ body {
     position: absolute;
     right: 350px;
 }
+.todoslosiconos a i {
+    color: white;
+}
+a:hover{
+
+    color: #fff;
+  }
